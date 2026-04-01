@@ -1,4 +1,4 @@
 // index.js
-import { greeting } from "./greeting.js";
+import { greeting } from "./greet.js";
 
 console.log(greeting);
